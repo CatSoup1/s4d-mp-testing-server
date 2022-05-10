@@ -1,0 +1,24 @@
+{
+  "name": "s4d-mp-testing-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LX8369/s4d-mp-testing-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LX8369/s4d-mp-testing-server/issues"
+  },
+  "homepage": "https://github.com/LX8369/s4d-mp-testing-server#readme",
+  "dependencies": {
+    "http": "^0.0.1-security",
+    "socket.io": "^4.5.0"
+  }
+}
